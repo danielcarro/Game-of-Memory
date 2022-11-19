@@ -1,6 +1,6 @@
 # Game of Memory
 
-Memory game an excellent time pass
+Memory game an excellent hobby.
 
 Project was created with ReactJS + Typescript
 
